@@ -1,7 +1,7 @@
  <div class = "footer">
       <div class = "inner_footer">
         <div class = "logo_container">
-          <img src="Actemium.png">
+          <img src="../assets/media/Actemium.png">
         </div>
         <div class = "footer_third">
           <h1>Help and FAQs</h1>

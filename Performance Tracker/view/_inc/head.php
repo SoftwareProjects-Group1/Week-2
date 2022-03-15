@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" type = "text/css" href = "Style.css">
-    <link rel="stylesheet" type = "text/css" href = "FooterStyle.css">
-    <link rel="stylesheet" type = "text/css" href = "HeaderStyle.css">
+    <link rel="stylesheet" type = "text/css" href = "../assets/css/Style.css">
+    <link rel="stylesheet" type = "text/css" href = "../assets/css/FooterStyle.css">
+    <link rel="stylesheet" type = "text/css" href = "../assets/css/HeaderStyle.css">
   </head>
